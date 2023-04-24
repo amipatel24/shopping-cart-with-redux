@@ -1,0 +1,16 @@
+.team-uppertext{
+    text-align: center;
+    margin-top: 70px;
+}
+.team-uppertext h6{
+    color: grey;
+    font-size: 18px;
+}
+.h6{
+    margin-top: 35px;
+}
+.row1{
+    margin-top: 80px !important;
+    margin-bottom: 50px;
+    text-align: center !important;
+}

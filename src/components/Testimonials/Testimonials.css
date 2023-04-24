@@ -1,0 +1,51 @@
+.Testimonials{
+    background-color: #edf5ff;
+    text-align: center;
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
+/* .Testimonials h1{
+ 
+} */
+.carousel-caption h3{
+    color:black;
+    text-align: left;
+    padding-top: 10px;
+}
+.carousel-caption h6{
+    color:grey;
+    text-align: left;
+}
+.carousel-caption p {
+    color:black;
+    text-align: left;
+
+}
+.carousel-caption{
+    top: 25%;
+transform: translateY(-25%);
+}
+
+
+.carousel-indicators button{
+   background-color: black !important;
+   height: 10px !important;
+    width: 10px !important;
+    margin: 0 10px !important;
+    border-radius: 100%;
+   
+}
+
+.carousel-inner {
+    padding-bottom: 60px;
+}
+
+
+.carousel-item{
+    margin-left: 400px;
+}
+.Carousel{
+    display: flex;
+    flex-direction: row;
+}
+

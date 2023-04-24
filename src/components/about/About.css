@@ -1,0 +1,25 @@
+.leftcontent{
+    position: absolute;
+}
+.text-About{
+    text-align: center;
+    margin-top: 25px;
+}
+.text-About h6{
+    font-size: 18px;
+}
+
+.icon1{
+    border-radius: 50%;
+    border: 1px solid var(--dogerblue);
+    color: var(--dogerblue);
+    width: 59px;
+    height: auto;
+    padding: 10px;
+    position: absolute;
+    margin-top: 15px;
+}
+.aboutimg{
+    width: 500px;
+    float: right;
+}

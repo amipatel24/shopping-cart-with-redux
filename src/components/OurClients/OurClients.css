@@ -1,0 +1,20 @@
+.Clients{
+    text-align: center;
+    background-color: #edf5ff;
+    padding-top: 40px;}
+.Clients .uppertext h6{
+    color: grey;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.widget-Box{
+    background-color: var(--white);
+    height: 200px;
+    /* margin: auto; */
+}
+.widget-Box img{
+    position: relative;
+    top: 50%;
+    transform: translate(0, -50%);
+}

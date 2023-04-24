@@ -1,0 +1,37 @@
+.orderRecivedwrapper{
+    background-color: #f8f8f8;
+    width: 100%;
+    padding-left: 0px !important;
+    padding-right: 0px !important;   
+  
+}
+
+.orderRecivedwrapper h6{
+    margin-top: 10px;
+}
+.orderRecivedwrapper .orderRecived{
+    padding: 15px;
+    border-bottom: 1px solid grey;
+
+}
+.orderRecived{
+    font-size: 18px;
+}
+.orderdetails .detailstitle{
+    background-color: #f8f8f8;
+    padding: 20px;
+    font-size: 18px;
+}
+.orderdetails .orderdetailsdata{
+    padding: 15px;
+}
+.totadata .totaltitle h6{
+    padding: 15px;
+}
+.totadata .totalinfo h6{
+    padding: 15px 0px;
+
+}
+.totadata{
+    background-color: #f8f8f8;
+}

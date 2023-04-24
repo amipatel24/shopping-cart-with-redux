@@ -1,0 +1,28 @@
+@import '../../App.css';
+.banner{
+   
+    background-color:var(--blue);
+    border-bottom-left-radius: 10% 10% ;
+    border-bottom-right-radius: 10% 10%;
+    height: 600x;
+ }
+  .Text{
+margin: 125px 0;
+ }
+ .Text h1{
+ color:var(--white);
+ text-align: left;
+ font-size: 55px;
+ }
+ .btn{
+  color:var(--white);
+  
+ }
+ .bnnerimg{
+  width: 524px;
+  margin: 90px 0;
+
+ }
+ .themebtn.btn{
+  border-color:var(--white);
+ }

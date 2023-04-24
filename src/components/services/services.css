@@ -1,0 +1,43 @@
+.services{
+    background-color:var(--LightBlue);
+}
+.text-center{
+    color: var(--white);
+}
+.text-center h1{
+    padding-top: 25px;
+}
+.cards{
+    color: var(--white);
+    /* text-align: center; */
+    background-color: var(--DarkBlue) !important;
+    display: block;
+    
+}
+
+.cardtitle.card-title{
+    color: var(--white) ;
+   
+}
+.card-text{
+    color: rgb(231, 214, 214);
+}
+
+.CardCol{
+    display:flex ;
+    gap: 40px;
+    margin-top:55px !important;
+    margin-bottom: 55px;
+}
+.link{
+    text-decoration: none;
+    color:var(--white);
+}
+.link:hover{
+    color: var(--white);
+}
+
+.serviceIcons{
+    width: 80px;
+    height: auto;
+}

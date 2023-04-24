@@ -1,0 +1,90 @@
+@import '../../App.css';
+.headerMenu a {
+    color:var( --blue-1);
+    font-size: 20px;
+    margin: 10px;
+    /* position: relative; */
+    text-decoration: none;
+    display: inline;
+}
+.headerMenu a:hover {
+    color: blue;
+    /* margin-left: 10px; */
+}
+.headerMenu a:active {
+    color: blue;
+}
+
+.shopbtn.btn-outline-primary a{
+
+    font-size: 20px;
+    text-decoration: none !important;
+    color: var( --blue-1);
+    margin: 0 auto ;
+}
+.carticon{
+    width: 25px;
+    height: auto;
+    
+}
+.badge{
+    width: 20px;
+    height: 20px;
+    padding: 0;
+    margin: 0 auto;
+    margin-left:35px;
+    position: absolute;
+    top: 20px;
+    display: inline-flex !important;
+    justify-content: center;
+    align-items: center;
+}
+.displayCartShow{
+    font-size: 12px;
+    position: absolute;
+  
+    
+    
+}
+.displaycartnone{
+    display: none;
+}
+.displaycart{   
+    position: absolute; 
+    z-index: 1;
+    display: flex;
+    right: 50px;
+   
+}
+.cartContainer{
+    display: flex;
+    justify-content: flex-end ;  
+}
+.closeIcon{
+    width: 20px;
+    height: auto;
+}
+.trashicon{
+
+    color: red ;
+}
+.btn-primary.cartviewcart{
+    background-color: black;
+    color: white; 
+    border: none;
+    font-size: 18px;
+    text-align: center;
+    width: 200px;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+ul{
+    color: blue !important;
+    list-style-type: none;
+    justify-content: center;
+    align-items: center;
+    margin:  10px auto;
+}
+ li {
+    display: inline-block;
+    padding-left: 0;
+  }
+  .paginationContainer{
+    margin: 10px auto;
+  }

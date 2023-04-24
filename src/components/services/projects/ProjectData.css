@@ -1,0 +1,8 @@
+
+.projectdata{
+    gap: 10%;
+    margin-top:30px !important;
+    margin-bottom: 30px;
+    color: var(--white);
+    text-align: center;
+}

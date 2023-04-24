@@ -1,0 +1,114 @@
+.cartdatacss p{
+    color: rgb(95, 88, 88);
+    font-size: 18px;
+    padding-top: 15px;
+}
+    
+
+.cartdatacss .cartdeleteicon{
+    height: auto;
+    width: 20px;
+    color: rgb(95, 88, 88);
+}
+
+.cartdetailespage .cartdatacss .inputBox{
+    width: 80px !important;
+     height: 40px; 
+     background-color: #eaeff3;
+     border: #eaeff3;
+     border-top: black;
+     font-size: 18px;
+}
+.cartheadingcss p {
+    color: black;
+    font-size: 18px;
+    /* padding-top: 15px; */
+}
+
+ .cartheadingcss {
+    background-color:#f8f8f8;
+    padding: 30px;
+    width: 100%;
+} 
+.updatecart{
+    background-color: #eeeeee;
+    border-color: #eeeeee;
+    color: black;
+}
+.updatecart:hover{
+    background-color:#9e9e9e ;
+}
+.coupaninput{
+    font-size: 18px;
+    height: 40px;
+    background-color: #eaeff3;
+  
+    width: auto;
+    border-color: #eaeff3;
+}
+.applycoupan{
+    font-size: 18px;
+    padding: 10px;
+    background-color: darkcyan;
+    color: white;
+    border: 1px solid;
+}
+
+.returnshopbtn.btn-outline-primary a{
+    background-color: #eeeeee;
+    /* border: 1px solid  #eeeeee ; */
+    border: none !important;
+}
+a.removelink {
+    font-size: 15px;
+}
+ 
+.alert-primary{
+    height: auto;
+    font-size: 20px;
+}
+.alert-success{
+    height: auto;
+    font-size: 20px;
+}
+.alert-danger{
+    height: auto;
+    font-size: 20px;
+}
+/* carttotal css */
+.disaplytotal{
+    margin-left: 500px;
+    margin-top: 20px;
+    width: auto;
+    width: 515px;
+}
+.disaplytotal .checkoutbtn{
+    font-size: 20px;
+    padding: 15px 50px;
+    width: 400px;
+    background-color: black;
+    color: wheat;
+}
+.dispalyshipping span{
+    font-size: 20px;
+    margin-left: 5px;
+}
+.updatebtn{
+    font-size: 18px;
+    padding: 10px;
+    background-color: darkcyan;
+    color: white;
+    border: 1px solid;
+    margin-left: 20px;
+}
+
+
+.coupunsdata{
+    padding-left: 8px !important;
+}
+.disaplytotal h5{
+    color: rgb(95, 88, 88);
+    font-size: 18px;
+}
+.changeaddresslink a{
+font-size: 18px;}
